@@ -6,3 +6,4 @@ let emotion = emotionOptions[Math.floor(Math.random() * emotionOptions.length)];
 let description = descriptionOptions[Math.floor(Math.random() * descriptionOptions.length)];
 let object = objectOptions[Math.floor(Math.random() * objectOptions.length)];
 
+console.log(`Don't worry, be ${emotion}.  I see a ${description} ${object} on the horizon.`);
