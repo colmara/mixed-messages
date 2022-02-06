@@ -7,5 +7,3 @@ let description = descriptionOptions[Math.floor(Math.random() * descriptionOptio
 let object = objectOptions[Math.floor(Math.random() * objectOptions.length)];
 
 console.log(`Don't worry, be ${emotion}.  I see a ${description} ${object} on the horizon.`);
-console.log(`Don't worry, be ${emotion}.  I see a ${description} ${object} on the horizon.`);
-console.log(`Don't worry, be ${emotion}.  I see a ${description} ${object} on the horizon.`);
